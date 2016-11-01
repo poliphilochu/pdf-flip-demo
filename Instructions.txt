@@ -1,0 +1,51 @@
+Thank you for choosing PDF Flip Book Converter!
+
+This is a basic Instructions file. 
+If you need further support please don’t hesitate to e-mail us at support@pdf-flip.com
+
+------------------------------------------------------------------------------------------------------------
+
+1. Extract the content of the PDF Flip .zip file.
+2. Connect to your website FTP account, create a new folder and upload the content of the PDF Flip .zip file.
+3. Upload your PDF file in the newly created folder with the PDF Flip files and rename it as "PDF.pdf" (including caps lock).
+
+Test it on your browser (www.yousitename.com/FolderName/)
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+Additional Instructions:
+
+Background Image:
+If you want to use your own background image you can update the existent bg.jpg with your own choice.
+
+--------------
+
+Company Logo:
+For your company logo you need to update the logo.png image or in case you don’t want to use a logo you can delete the file.
+For logo URL you need to edit the index.html file and update this part: "<a id="PDFF-logo" target="_blank" href="http://www.pdf-flip.com">"
+
+--------------
+
+Optimize PDF File Size:
+Even if the PDF Converter does not have a limitation on file size it is recommended that you use an optimized web version of the file. 
+You can prepare an optimized PDF file / reduced it’s size for free at this address: http://smallpdf.com/compress-pdf
+
+--------------
+
+Use it Offline:
+You can also test your PDF Flip Book offline (from your computer) on a Firefox browser.
+In case you don’t have it install you can download for free from this location:
+https://www.mozilla.org/en-US/firefox/new/
+
+--------------
+
+If you need Technical Support please e-mail us at support@pdf-flip.com
+
+
+PDF Flip Book Converter,
+www.PDF-flip.com
+support@pdf-flip.com
